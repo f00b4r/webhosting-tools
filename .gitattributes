@@ -3,3 +3,4 @@
 .travis.yml export-ignore
 composer.lock export-ignore
 *.md export-ignore
+screenshot.png export-ignore
