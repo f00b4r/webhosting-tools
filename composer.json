@@ -1,0 +1,15 @@
+{
+  "name": "f3l1x/xhosting",
+  "description": "All tools in one place",
+  "type": "project",
+  "homepage": "https://github.com/f3l1x/xhosting",
+  "authors": [
+    {
+      "name": "Milan Felix Sulc",
+      "homepage": "http://jfx.cz"
+    }
+  ],
+  "require": {
+    "php": ">=5.4"
+  }
+}
