@@ -32,5 +32,11 @@ composer create-project f3l1x/xhosting
 
 ------
 
+## Screenshot
+
+![](https://raw.githubusercontent.com/f3l1x/xhosting/master/screenshot.png "Screenshot")
+
+------
+
 Thank to all authors for all great addons and tools.
 
